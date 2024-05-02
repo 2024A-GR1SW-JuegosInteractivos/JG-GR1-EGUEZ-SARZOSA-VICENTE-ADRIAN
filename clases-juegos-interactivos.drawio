@@ -1,0 +1,408 @@
+<mxfile host="app.diagrams.net" modified="2024-05-02T17:52:48.403Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="fqI_IGPNQMsSkXw6DD0X" version="24.3.1" type="device">
+  <diagram name="Clase 02" id="Rk6S_nvcg9IU_fugr5uo">
+    <mxGraphModel dx="618" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="juSlcfwucS5lgObkWqZz-1" value="Game Design Roles" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-2" value="Development Teams" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-3" value="Software Development Models" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="350" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-4" value="Production, schedules and milestones" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="110" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-5" value="Game Publisher" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="270" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-6" value="Con estos temas vamos a realizar mapas mentales, etc.&lt;br&gt;&lt;br&gt;Hacer en grupos de dos personas&lt;br&gt;&lt;br&gt;Algo que presentar (slide, video, imagenes)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="430" y="130" width="320" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-7" value="Game Design Roles" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="480" width="550" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-8" target="juSlcfwucS5lgObkWqZz-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-8" value="Game Designer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-9" value="Game Director" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-10" value="Sound Engineer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-12" value="Writer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-13" value="Animador 2d 3d" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="320" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-14" value="Diseñador Grafico" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-15" value="Programador" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="580" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-17" value="Game Tester" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="580" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-19" target="juSlcfwucS5lgObkWqZz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-19" target="juSlcfwucS5lgObkWqZz-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-19" target="juSlcfwucS5lgObkWqZz-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-19" value="Generalist" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="20" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-21" value="Junior / Senior" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-22" value="Lead Designers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-24" value="Creative Directors" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-26" target="juSlcfwucS5lgObkWqZz-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-26" target="juSlcfwucS5lgObkWqZz-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-26" value="Economy designer / Monetization Specialist" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-27" value="In-Game Economy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-28" value="Monetization Strategy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-33" target="juSlcfwucS5lgObkWqZz-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-33" target="juSlcfwucS5lgObkWqZz-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-33" target="juSlcfwucS5lgObkWqZz-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-33" value="Level Designers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-34" value="Gameplay" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-35" value="Artistic Design" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-36" value="Finished Stage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-38" target="juSlcfwucS5lgObkWqZz-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-38" target="juSlcfwucS5lgObkWqZz-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-38" value="Mission / content Designers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-39" value="In-Game Content&lt;br&gt;&lt;br&gt;ADD / BALANCE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-41" value="NPCs, buildings" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-42" value="Vehicles, Weapons, Quests, Puzzles" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-38" target="juSlcfwucS5lgObkWqZz-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-45" target="juSlcfwucS5lgObkWqZz-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-45" target="juSlcfwucS5lgObkWqZz-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-45" value="Narrative Designers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-46" value="Writings, Designing, Implementing Narrative Elements in Games" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-48" value="Level Mission/Content Designers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-50" target="juSlcfwucS5lgObkWqZz-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-50" target="juSlcfwucS5lgObkWqZz-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-50" target="juSlcfwucS5lgObkWqZz-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-50" target="juSlcfwucS5lgObkWqZz-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-50" target="juSlcfwucS5lgObkWqZz-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-50" value="System Designers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-51" value="Mecanicas de Juego" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-53" value="Repetitivas del juego" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-55" value="Multiplayer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-56" value="Player Progression" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-57" value="Combat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="2200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-61" target="juSlcfwucS5lgObkWqZz-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-61" target="juSlcfwucS5lgObkWqZz-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-61" value="Technical designers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="10" y="2320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-62" value="Une Programador Disenador" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-64" value="Cierra BRECHA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="170" y="2410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-67" value="Development Teams" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="830" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-69" value="Designers Programmers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-70" value="Half and a Half" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-71" value="Design committee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-72" value="Leader" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-73" value="1-4 muy pequenos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-74" value="5-14 pequenos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-75" value="15 - 30&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;medianos&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-76" value="&amp;gt; 30&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;grandes&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-77" value="Responsabilities Game Designer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-78" value="Disenar niveles y ambientes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-79" value="Definir mecanicas y sistema de juego" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-80" value="Conceptualizacion del juego" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1169" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-81" value="Creacion de prototipos de niveles" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-82" value="Colaborar con programadores, disenadores y otros miembros" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-83" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-85" value="Escribir GDD (Game Design Document)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="2000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-86" target="juSlcfwucS5lgObkWqZz-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="juSlcfwucS5lgObkWqZz-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="2030" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-86" target="juSlcfwucS5lgObkWqZz-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-86" target="juSlcfwucS5lgObkWqZz-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-86" target="juSlcfwucS5lgObkWqZz-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-86" target="juSlcfwucS5lgObkWqZz-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-86" target="juSlcfwucS5lgObkWqZz-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-86" target="juSlcfwucS5lgObkWqZz-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-86" target="juSlcfwucS5lgObkWqZz-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-86" target="juSlcfwucS5lgObkWqZz-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-86" target="juSlcfwucS5lgObkWqZz-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-86" target="juSlcfwucS5lgObkWqZz-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-86" target="juSlcfwucS5lgObkWqZz-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-86" value="Responsabilities Game Designer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="770" y="2000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-88" value="Deja por escrito como se ha hecho el videojuego en concreto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-89" value="Ideas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-90" value="Introduccion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-91" value="Guion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-92" value="Doc Game Features, Content requerido (10 niveles)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="2000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-95" value="Versiones" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-96" value="Desarrollo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-97" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Artes&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-98" value="Jugabilidad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-99" value="Mecanicas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-100" value="Estados juego" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-101" value="Interfaz" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-102" value="Progreso" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-103" value="Personaje" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-104" value="Items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-105" value="Logros" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-106" value="Musica y Sonido" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-107" value="Arte y Concepto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-108" value="Miembros del equipo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="1780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-109" value="Detalles produccion" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-110" value="Anexos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-111" value="GDD (Game Design Document)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1340" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-112" target="juSlcfwucS5lgObkWqZz-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-112" value="Communicating Design Vision&lt;br&gt;(face to face, writing)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="2100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-114" value="Overseeing game mechanics, features content" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="2100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-117" value="User flows, sketchs User Interface" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="2190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="juSlcfwucS5lgObkWqZz-119" target="juSlcfwucS5lgObkWqZz-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-119" value="Prototyping, Designing, Implementing new Gameplay" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="2290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-121" value="New Characters, weapongs, abilities, achievements, buildings" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="2290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-123" value="Prototyping, Designing, Implementing new Gameplay" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="2390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-125" value="Level Design, Single player campaigns" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="2470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-126" value="Planning, Scripting Tutorials, achievements, cutscenes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="2550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-127" value="Balancing Gameplay abilities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="2630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-128" value="Writing In-Game Text and integrating Dialogs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="2710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-129" value="Integrating Visual Effects" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="2800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-130" value="Future Content Roadmap" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="2880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-131" value="Managing Writer Audio Engineer tasks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="2960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="juSlcfwucS5lgObkWqZz-132" value="Managing Community" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="3040" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
