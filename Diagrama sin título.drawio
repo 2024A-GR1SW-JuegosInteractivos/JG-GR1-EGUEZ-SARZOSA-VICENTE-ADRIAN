@@ -1,5 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T17:24:21.017Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="R-CAzSL-g-3LoCO12qfI" version="24.4.6" type="device" pages="2">
-  <diagram name="Página-1" id="o_vRm33nGpRWv9YOxHRM" />
+<mxfile host="app.diagrams.net" modified="2024-06-06T17:28:09.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="AZKhv3NdvwJ-9N4fFEL0" version="24.5.1" type="device" pages="3">
+  <diagram name="Página-1" id="o_vRm33nGpRWv9YOxHRM">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="zdmGyD7-E6USi1Bv1dmG" name="Página-2">
     <mxGraphModel dx="1349" dy="1450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,6 +157,50 @@
         </mxCell>
         <mxCell id="bsu85AMguJfSRV2oqJXv-51" value="Tipo de daño que hacen&lt;br&gt;(Splash, un solo disparo, disparo continuo (fuego), disparas y se pega en la pared o piso (mina), etc)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5160" y="260" width="120" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YPEBSsewThwvgPmfE8Nm" name="Página-3">
+    <mxGraphModel dx="1595" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zFMXPvUxn5X7pE8er6Qk-1" value="What is a game mechanic" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="40" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zFMXPvUxn5X7pE8er6Qk-2" value="Examples of game mechanics&lt;br&gt;(Explicacion con multimedia de ser posible)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="40" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zFMXPvUxn5X7pE8er6Qk-3" value="List common game mechanics" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="330" y="55" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zFMXPvUxn5X7pE8er6Qk-4" value="Game &lt;b&gt;mechanics &lt;/b&gt;interact with each other to develop &lt;b&gt;dynamics&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="50" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zFMXPvUxn5X7pE8er6Qk-5" value="Mechanics and dynamics are part of a feature" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zFMXPvUxn5X7pE8er6Qk-6" value="Space" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zFMXPvUxn5X7pE8er6Qk-7" value="Actions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zFMXPvUxn5X7pE8er6Qk-8" value="Objects, Attributes, States" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zFMXPvUxn5X7pE8er6Qk-9" value="Chance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="695" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zFMXPvUxn5X7pE8er6Qk-10" value="Rules" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zFMXPvUxn5X7pE8er6Qk-11" value="Skill" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zFMXPvUxn5X7pE8er6Qk-12" value="&lt;b&gt;Jumping&lt;/b&gt;:&lt;br&gt;How high&lt;br&gt;how much distance&lt;br&gt;control while is in the air&lt;br&gt;Rule affects the mechanic&lt;br&gt;Challenges when jumping" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="120" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
