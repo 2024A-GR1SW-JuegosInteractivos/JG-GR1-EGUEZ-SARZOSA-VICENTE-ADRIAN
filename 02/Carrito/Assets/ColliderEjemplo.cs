@@ -8,4 +8,16 @@ public class ColliderEjemplo : MonoBehaviour
     {
         Debug.Log("Ouch!");
     }
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        Debug.Log("Entrando en trigger!");
+        if (other.tag == "Paquete")
+        {
+            Debug.Log("Recogio paquete");
+        }
+        if (other.tag == "Cliente")
+        {
+            Debug.Log("Dejo paquete!");
+        }
+    }
 }
