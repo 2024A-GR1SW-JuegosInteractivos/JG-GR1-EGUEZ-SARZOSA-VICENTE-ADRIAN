@@ -6,6 +6,8 @@ public class CarritoScript : MonoBehaviour
 {
     [SerializeField] float steerSpeed = 200f;
     [SerializeField] float moveSpeed = 15f;
+    [SerializeField] float velocidadRapido = 20f;
+    [SerializeField] float velocidadLento = 5f;
     // Start is called before the first frame update
     void Start()
     {
@@ -17,5 +19,19 @@ public class CarritoScript : MonoBehaviour
         float moveAmount = Input.GetAxis("Vertical") * moveSpeed * Time.deltaTime;
         transform.Rotate(0, 0, -steerAmount);
         transform.Translate(0, moveAmount, 0);
+    }
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.tag == "Rapido")
+        {
+            Debug.Log("Ir Rapido");
+            moveSpeed = velocidadRapido;
+        }
+        if (other.tag == "Lento")
+        {
+            Debug.Log("Ir Lento");
+            moveSpeed = velocidadLento;
+        }
     }
 }
