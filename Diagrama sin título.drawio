@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T17:28:09.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="AZKhv3NdvwJ-9N4fFEL0" version="24.5.1" type="device" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-07-05T22:21:19.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="XlHpFk5tZZz86bGqYFxA" version="24.6.4" type="device" pages="4">
   <diagram name="Página-1" id="o_vRm33nGpRWv9YOxHRM">
     <mxGraphModel>
       <root>
@@ -201,6 +201,41 @@
         </mxCell>
         <mxCell id="zFMXPvUxn5X7pE8er6Qk-12" value="&lt;b&gt;Jumping&lt;/b&gt;:&lt;br&gt;How high&lt;br&gt;how much distance&lt;br&gt;control while is in the air&lt;br&gt;Rule affects the mechanic&lt;br&gt;Challenges when jumping" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
           <mxGeometry x="520" y="280" width="120" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PZayxq9u7j4P1kIAMuxc" name="Página-4">
+    <mxGraphModel dx="1462" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9zyUGEGVkhoJSMg3am-k-1" value="Juegos Serios" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9zyUGEGVkhoJSMg3am-k-2" value="Gamificación" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="550" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9zyUGEGVkhoJSMg3am-k-3" value="Metodologías de juegos serios" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9zyUGEGVkhoJSMg3am-k-4" value="Los juegos pueden jugarse de manera seria o casual. Nos preocupa los JS en el sentido de que estos juegos tienen un propósito educativo EXPLICITO y CUIDADOSAMENTE PENSADO y no están destinados a ser jugados principalmente por diversión. Este proceso no significa que los JS no sean, o no deban ser, entretenidos." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="200" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9zyUGEGVkhoJSMg3am-k-6" value="Simuladores, problemas sociales, culturales, de guerra y otros" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="320" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9zyUGEGVkhoJSMg3am-k-7" value="Juegos Serios,&lt;br&gt;Aplicaciones Gamificadas,&lt;br&gt;Sofware Educativo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9zyUGEGVkhoJSMg3am-k-8" value="Historia, código, arte&lt;br&gt;&lt;br&gt;PEDAGOGIA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="205" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9zyUGEGVkhoJSMg3am-k-9" value="Código, Pedagogía" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9zyUGEGVkhoJSMg3am-k-10" value="Programas informáticos (usan elementos de videojuegos)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="320" y="310" width="110" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
